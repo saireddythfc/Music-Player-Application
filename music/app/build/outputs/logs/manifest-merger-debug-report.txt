@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1f3b9d29b2e83ec39d45870c9088c2a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7f994eda81361ed920cb22a478290fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\58513603564711f8141632b042ce4ee5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\729a8a65e7b89fb6ff131418fc428afc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\51e1546a6861ed28cd0d61f1a4aee5c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3bbf1ac49cf9021077c8c46ff14b8101\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9b7198c51acc1423afa4cdf82a8d6e14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\448dd9c03226b608c121026bcda2a3cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a5b6de794adb9d9d7396a74b7ab9fe71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f82785767b2d75ec0dd1531c96ba9321\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\08cb129c03959a132d59c3c967004525\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c616caa744a1c4363cbbddba58e68cd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ca1c155976b9e8d10726aacdb54017c0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82e5d3e18b8369e7d0198620e8e15431\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2e60abe5191cca912bd50fe0dd3bb2af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e7cf4772ed5d6a1c090f8ce8ddc9c369\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c0fe3b23d8fb5be17ef83ca2bccb6097\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:4:22-77
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:6:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:8:22-68
+uses-feature#0x00020000
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:9:5-78
+	android:glEsVersion
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:9:19-51
+	android:required
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:9:52-75
+application
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:11:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\58513603564711f8141632b042ce4ee5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\58513603564711f8141632b042ce4ee5\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:14:9-31
+	android:icon
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.saireddy.music.activity.MainActivity
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:17:9-22:20
+	android:label
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:18:13-50
+activity#com.example.saireddy.music.SplashActivity
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:23:9-29:36
+	android:theme
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:23:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:25:13-29:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml:28:23-70
+uses-sdk
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1f3b9d29b2e83ec39d45870c9088c2a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1f3b9d29b2e83ec39d45870c9088c2a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7f994eda81361ed920cb22a478290fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7f994eda81361ed920cb22a478290fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\58513603564711f8141632b042ce4ee5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\58513603564711f8141632b042ce4ee5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\729a8a65e7b89fb6ff131418fc428afc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\729a8a65e7b89fb6ff131418fc428afc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\51e1546a6861ed28cd0d61f1a4aee5c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\51e1546a6861ed28cd0d61f1a4aee5c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3bbf1ac49cf9021077c8c46ff14b8101\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3bbf1ac49cf9021077c8c46ff14b8101\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9b7198c51acc1423afa4cdf82a8d6e14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9b7198c51acc1423afa4cdf82a8d6e14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\448dd9c03226b608c121026bcda2a3cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\448dd9c03226b608c121026bcda2a3cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a5b6de794adb9d9d7396a74b7ab9fe71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a5b6de794adb9d9d7396a74b7ab9fe71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f82785767b2d75ec0dd1531c96ba9321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f82785767b2d75ec0dd1531c96ba9321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\08cb129c03959a132d59c3c967004525\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\08cb129c03959a132d59c3c967004525\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c616caa744a1c4363cbbddba58e68cd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c616caa744a1c4363cbbddba58e68cd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ca1c155976b9e8d10726aacdb54017c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ca1c155976b9e8d10726aacdb54017c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82e5d3e18b8369e7d0198620e8e15431\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82e5d3e18b8369e7d0198620e8e15431\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2e60abe5191cca912bd50fe0dd3bb2af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2e60abe5191cca912bd50fe0dd3bb2af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e7cf4772ed5d6a1c090f8ce8ddc9c369\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e7cf4772ed5d6a1c090f8ce8ddc9c369\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c0fe3b23d8fb5be17ef83ca2bccb6097\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sai Reddy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c0fe3b23d8fb5be17ef83ca2bccb6097\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sai Reddy\AndroidStudioProjects\music\app\src\main\AndroidManifest.xml

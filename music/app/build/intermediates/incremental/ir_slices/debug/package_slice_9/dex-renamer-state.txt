@@ -1,0 +1,4 @@
+#Sat Jul 21 10:21:13 IST 2018
+base.0=C\:\\Users\\Sai Reddy\\AndroidStudioProjects\\music\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\44
+path.0=classes.dex
+renamed.0=classes.dex
